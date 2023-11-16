@@ -1,1 +1,1 @@
-# Normalization-1NF-2ND-3NF-
+# Normalization-1NF-2NF-3NF-
